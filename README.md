@@ -1,12 +1,12 @@
-# 🏠 House Price Prediction using Linear Regression
+#  House Price Prediction using Linear Regression
 
-## 📌 Project Overview
+## Project Overview
 
 This project implements a **Linear Regression** model to predict house prices based on housing features. The model is built using **Scikit-learn**, with data preprocessing, feature scaling, model training, evaluation, and deployment through a **Streamlit web application**.
 
 ---
 
-## 🎯 Project Features
+## Project Features
 
 - Data Preprocessing
 - Exploratory Data Analysis (EDA)
@@ -19,7 +19,7 @@ This project implements a **Linear Regression** model to predict house prices ba
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 - **Dataset:** Housing Price Dataset
 - **Target Variable:** House Price
@@ -29,7 +29,7 @@ This project implements a **Linear Regression** model to predict house prices ba
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -42,7 +42,7 @@ This project implements a **Linear Regression** model to predict house prices ba
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 
 The model was evaluated using:
 
@@ -52,23 +52,23 @@ The model was evaluated using:
 
 ---
 
-## 📷 Project Screenshots
+## Project Screenshots
 
 ### Regression Line
 
-![Regression Line](images/regression_line.png)
+![Regression Line](images/Regression line.png)
 
 ### Scatter Plot
 
-![Scatter Plot](images/scatter_plot.png)
+![Scatter Plot](images/Scatter plot.png)
 
 ### Actual vs Predicted
 
-![Actual vs Predicted](images/actual_vs_predicted.png)
+![Actual vs Predicted](images/Actual vs predicted.png)
 
 ### Mean Squared Error
 
-![MSE](images/mse.png)
+![MSE](images/MSE.png)
 
 ---
 
@@ -77,7 +77,8 @@ The model was evaluated using:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Linear-Regression.git
+git clone https://github.com/romaisamalik1063-sketch
+/Linear-Regression.git
 ```
 
 ### 2. Install Dependencies
@@ -94,7 +95,7 @@ streamlit run app.py
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Linear-Regression/
@@ -116,7 +117,7 @@ Linear-Regression/
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Polynomial Regression
 - Ridge Regression
@@ -126,7 +127,7 @@ Linear-Regression/
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Romaisa Malik**
 
