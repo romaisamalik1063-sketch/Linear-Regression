@@ -25,7 +25,7 @@ This project implements a **Linear Regression** model to predict house prices ba
 - **Target Variable:** House Price
 - **Algorithm:** Linear Regression
 
-> *(If your dataset is from Kaggle or another source, add its link here.)*
+
 
 ---
 
